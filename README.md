@@ -1,7 +1,5 @@
 # LinguaSpot_Repo
 
-# LinguaSpot_Repo
-
 Project: LinguaSpot
 
 Developer: Dylan Pipping
